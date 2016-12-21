@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Tech-Portal-Repo" name="[B][COLOR=ghostwhite] • [/COLOR][COLOR=steelblue]T[/COLOR][COLOR ghostwhite]ech-[/COLOR][COLOR=steelblue]P[/COLOR][COLOR ghostwhite]ortal-[/COLOR][COLOR=steelblue]R[/COLOR][COLOR ghostwhite]epo[/COLOR][/B]" 
+version="3.4" 
+provider-name="[COLOR=steelblue]Steindenaer[/COLOR]">
+	<extension point="xbmc.addon.repository" name="Tech-Portal">
+		<info compressed="false">http://addons.tech-portal.tv/Tech-Portal-addons.xml</info>
+		<checksum>http://addons.tech-portal.tv/Tech-Portal-addons.xml.md5</checksum>
+		<datadir zip="true">http://addons.tech-portal.tv/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Tech-Portal - Repository</summary>
+		<summary lang="en">Tech-Portal.TV Repository</summary>
+		<summary lang="nl">Tech-Portal.TV Repository</summary>
+		<description>Tech-Portal.TV - Repository including the Tech-Portal - Installer, Favorites Music, Video Addons, and more! </description>
+		<disclaimer lang="en">The owners and submitters to this repository do not host or distribute any of the content displayed by these addons nor do they have any affiliation with its content. Please Read: https://tech-portal.tv/License.txt !!!</disclaimer>
+		<disclaimer lang="nl">De eigenaar van deze repository host of distributeerd geen content die word weergegeven binnen de addons in deze repository noch kan deze in verband worden gebracht met de content hierin weergegeven. Neem een kijkje op: https://tech-portal.tv/License.txt !!!</disclaimer>
+		<platform>all</platform>
+		<license>GNU GENERAL PUBLIC LICENSE. Version 3, June 2007</license>
+		<forum>http://tech-portal.tv/forum</forum>
+		<website>https://www.facebook.com/groups/Tech-Portal.TV/</website>
+		<source>http://install.tech-portal.tv</source>
+		<source>https://tech-portal.tv</source>
+	</extension>
+</addon>
+
